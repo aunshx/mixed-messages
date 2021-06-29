@@ -2,13 +2,10 @@
 
 ## Table Of Contents 
 
-* [Introduction] [1]
-* [Future-Changes] [2]
-* [Technologies] [3]
+* [Introduction] (https://github.com/aunshx/mixed-messages#introduction)
+* [Future Changes] (https://github.com/aunshx/mixed-messages#future-changes)
+* [Technologies] (https://github.com/aunshx/mixed-messages#technologies)
 
-[1]: https://github.com/aunshx/mixed-messages#introduction
-[2]: https://github.com/aunshx/mixed-messages#future-changes
-[3]: https://github.com/aunshx/mixed-messages#technologies
 
 ## Introduction 
 
