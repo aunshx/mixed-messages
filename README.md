@@ -2,16 +2,13 @@
 
 ## Table Of Contents 
 
-1. Introduction [#introduction]
-2. Features [#features]
-3. Future Changes [#future-changes]
-4. Technologies [#technologies]
++ Introduction [https://github.com/aunshx/mixed-messages#introduction]
++ Future Changes [https://github.com/aunshx/mixed-messages#future-changes]
++ Technologies [https://github.com/aunshx/mixed-messages#technologies]
 
 ## Introduction 
 
 A small code to randomly generate facts about the seasons one like and what they like about it. 
-
-## Features 
 
 ## Future Changes 
 
@@ -21,8 +18,8 @@ A small code to randomly generate facts about the seasons one like and what they
 
 ## Technologies 
 
-> ECMAScript Version 6
-> VSCode Editor 
-> Git Bash Terminal 
+> * ECMAScript Version 6
+> * VSCode Editor 
+> * Git Bash Terminal 
 
 
